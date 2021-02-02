@@ -2,7 +2,7 @@
 /*===============================================================================
     
     PROYECTO: PLATAFORMA EDUCATIVA ROBOTICA
-    Robot CuyBOT V1.0-2020
+    Robot CuyBOT V1.0-2021
     by Julio Wallingre           
                    
                     O   O  
